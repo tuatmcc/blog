@@ -1,10 +1,10 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-baseurl: /blog
+baseurl: /
 
 # Site live URL
-url: http://tuatmcc.github.io
+url: http://blog.tuatmcc.com
 
 # Localhost 
 # url: http://127.0.0.1:4000  
@@ -23,7 +23,7 @@ harmony:
   author: # Author details
     name: TUATMCC
     email: tuatmcc@live.jp
-    url: http://tuatmcc.github.io
+    url: http://tuatmcc.com
 
   # Google Analytics key, leave blank to ignore
   # google_analytics_key: UA-xxxx-x
